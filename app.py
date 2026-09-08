@@ -14,7 +14,7 @@ Hitung leverage yang pas atau proyeksi PnL sebelum masuk posisi.
 
 ""  # spacer
 
-tab_leverage, tab_pnl = st.tabs(["📈 Kalkulator Leverage", "💹 Kalkulator PnL"])
+tab_leverage, tab_pnl = st.tabs(["Kalkulator Leverage", "Kalkulator PnL"])
 
 
 def position_selector(state_key):
